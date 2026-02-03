@@ -12,10 +12,7 @@ import {
   ChevronLeft,
   ChevronRight,
   Check,
-  X,
-  User,
   Mail,
-  Phone,
   MessageCircle,
   AlertCircle,
   Loader2
