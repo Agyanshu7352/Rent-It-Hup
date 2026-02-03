@@ -65,13 +65,13 @@ Rent-It-Hub is a full-stack peer-to-peer rental marketplace that enables users t
 ## 🎥 Demo
 
 ### Homepage
-![Homepage Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Homepage+Screenshot)
+![Homepage Screenshot](/public/homepage.png)
 
 ### Browse Items
-![Browse Screenshot](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Browse+Items+Screenshot)
+![Browse Screenshot](/public/categories.png)
 
 ### List Your Item
-![List Item Screenshot](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=List+Item+Screenshot)
+![List Item Screenshot](/public/list-item.png)
 
 ---
 
@@ -296,8 +296,8 @@ See the [issues page](https://github.com/Agyanshu7352/Rent-It-Hup/issues) for a 
 ## 🗺️ Roadmap
 
 - [ ] **Q1 2026**
-  - [ ] Payment gateway integration (Stripe/Razorpay)(comming soon)
-  - [ ] Advanced search filters(comming soon )
+  - [ ] Payment gateway integration (Stripe/Razorpay)
+  - [ ] Advanced search filters
   - [ ] Email notifications
   
 - [ ] **Q2 2026**
