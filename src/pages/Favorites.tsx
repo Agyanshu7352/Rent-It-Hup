@@ -112,11 +112,11 @@ const Favorites = () => {
                       {/* Remove Button */}
                       <AlertDialog>
                         <AlertDialogTrigger asChild>
-                          <button className="absolute top-3 right-3 w-9 h-9 rounded-full bg-white/90 backdrop-blur-sm flex items-center justify-center hover:bg-white hover:scale-110 transition-all">
+                          <button className="absolute top-3 right-3 w-9 h-9 rounded-full bg-white backdrop-blur-sm flex items-center justify-center hover:bg-white hover:scale-110 transition-all">
                             <Heart className="w-5 h-5 fill-rose-500 text-rose-500" />
                           </button>
                         </AlertDialogTrigger>
-                        <AlertDialogContent>
+                        <AlertDialogContent className='bg-white'>
                           <AlertDialogHeader>
                             <AlertDialogTitle>Remove from favorites?</AlertDialogTitle>
                             <AlertDialogDescription>

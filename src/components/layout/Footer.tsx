@@ -43,7 +43,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-2 md:col-span-3 lg:col-span-2">
             <a href="/" className="flex items-center  mb-4">
-              <img className="h-15 w-auto object-contain" src="/public/rent-it-hub_favicon.png" alt="Rent-It-Hub" />
+              <img className="h-15 w-auto object-contain" src="./rent-it-hub_favicon.png" alt="Rent-It-Hub" />
               <span>
                   <span className="font-display font-bold text-xl px-0 ">
                   Rent-It Hub
