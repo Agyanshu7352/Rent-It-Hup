@@ -7,7 +7,6 @@
 **A modern peer-to-peer rental marketplace connecting people who want to rent with those who have items to share.**
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://rent-it-hup.vercel.app)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
@@ -297,8 +296,8 @@ See the [issues page](https://github.com/Agyanshu7352/Rent-It-Hup/issues) for a 
 ## 🗺️ Roadmap
 
 - [ ] **Q1 2026**
-  - [ ] Payment gateway integration (Stripe/Razorpay)
-  - [ ] Advanced search filters
+  - [ ] Payment gateway integration (Stripe/Razorpay)(comming soon)
+  - [ ] Advanced search filters(comming soon )
   - [ ] Email notifications
   
 - [ ] **Q2 2026**
@@ -313,19 +312,14 @@ See the [issues page](https://github.com/Agyanshu7352/Rent-It-Hup/issues) for a 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
 **Agyanshu**
 
 - GitHub: [@Agyanshu7352](https://github.com/Agyanshu7352)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/Agyanshukumar)
+- Email: agyanshukumar@gmail.com
 
 ---
 
